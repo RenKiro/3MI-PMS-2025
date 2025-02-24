@@ -1,7 +1,8 @@
 # 3MI-PMS-2025
-A Payroll Management System for 3MI Airconditioning Systems Services
+Description: A Payroll Management System for 3MI Airconditioning Systems Services
 
-Requirements
+
+[Requirements]
 
 Python Version:
 - 3.11 / 3.12 / 3.9
